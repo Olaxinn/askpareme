@@ -5,8 +5,8 @@
 **Benimle Çıkar Mısın?** eğlenceli ve etkileşimli bir web platformudur. Kullanıcıların eğlenebileceği ve farklı deneyimler yaşayabileceği bir alan sunmayı hedefliyoruz. Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
 ## 💻 Teknolojiler
-- ![HTML5](https://img.icons8.com/ios/50/000000/html-5.png) HTML5
-- ![CSS3](https://img.icons8.com/ios/50/000000/css3.png) CSS3
+- ![HTML](https://img.icons8.com/ios/50/000000/html.png) HTML
+- ![CSS](https://img.icons8.com/ios/50/000000/css.png) CSS
 - ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript
 
 ## 📥 Kurulum
