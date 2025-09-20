@@ -1,3 +1,4 @@
+# Sahibi ben değilim sadece kişiselleştirdim aşşağıdaki tasarlayan kişinin readme dosyasıdır.
 
 # 🥳 Benimle Çıkar Mısın? 🌟
 
